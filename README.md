@@ -27,7 +27,7 @@ sys	0m0.076s
 
 real	0m0.243s
 user	0m0.191s
-sys   0m0.052s
+sys    0m0.052s
 
 real	0m0.234s
 user	0m0.170s
